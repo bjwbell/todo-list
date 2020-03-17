@@ -1,2 +1,2 @@
 # todo-list
-Vue.js todo list docker container with firebase backend
+Docker container for Vue.js todo list with firebase backend
